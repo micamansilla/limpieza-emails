@@ -145,4 +145,4 @@ else:
     st.info("👆 Esperando que subas un archivo para comenzar.")
 
 st.markdown("---")
-st.caption("Desarrollado por Mica & Juli 🐍 | Limpieza de Emails con Streamlit + División de Archivos")
+st.caption("Limpieza de Emails con Streamlit + División de Archivos")
